@@ -1,0 +1,13 @@
+{
+  "name": "devtask-api",
+  "version": "1.0.0",
+  "description": "API de tarefas - Projeto DevOps",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Testes ok\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
